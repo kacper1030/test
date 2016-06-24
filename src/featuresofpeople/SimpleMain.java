@@ -1,5 +1,6 @@
 package featuresofpeople;
 
+import clothes.ClothesOfPeoples;
 import featuresface.FeaturesFace;
 import baseofname.NamesPeoples;
 
@@ -16,6 +17,8 @@ public class SimpleMain {
 		FeaturesFace featface = new FeaturesFace();
 		featface.characteristicFace("green"," little red",  "big", "huge");
 		
+		ClothesOfPeoples cop = new ClothesOfPeoples();
+		cop.coloursOfClothes("red", " pink", "grey");
 	}
 
 }
