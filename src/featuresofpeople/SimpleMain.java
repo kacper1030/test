@@ -19,6 +19,9 @@ public class SimpleMain {
 		
 		ClothesOfPeoples cop = new ClothesOfPeoples();
 		cop.coloursOfClothes("red", " pink", "grey");
+		
+		ShowEvents se = new ShowEvents();
+		se.showEvent();
+			
+		}
 	}
-
-}
