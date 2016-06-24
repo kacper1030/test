@@ -14,7 +14,7 @@ public class SimpleMain {
 		namesPpl.dimensions(185, 42, 40);
 		
 		FeaturesFace featface = new FeaturesFace();
-		featface.characteristicFace("brown"," little red",  "big", "huge");
+		featface.characteristicFace("green"," little red",  "big", "huge");
 		
 	}
 
